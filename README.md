@@ -7,7 +7,7 @@
 |167|sqrt|
 |168|fst, snd|
 |172|mod|
-|187|head, tail, (:)|
+|187|head, tail|
 
 ### Python
 |page|function|
